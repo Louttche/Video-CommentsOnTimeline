@@ -1,0 +1,19 @@
+{
+  "name": "youtube-video-player-clone-main",
+  "version": "1.0.0",
+  "description": "Comment on video on timeline",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Louttche/Video-CommentsOnTimeline.git"
+  },
+  "author": "Katerina Nicolaidou Louttchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Louttche/Video-CommentsOnTimeline/issues"
+  },
+  "homepage": "https://github.com/Louttche/Video-CommentsOnTimeline#readme"
+}
